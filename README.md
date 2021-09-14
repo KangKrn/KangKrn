@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @KangKrn
+- 👋 Hi, I’m @KangKrn / Kang Wie Shen
 - 👀 I’m interested in Games and Web Development
 - 🌱 I’m currently learning ReactJS
 - 💞️ I’m looking to finding Full-Time work
